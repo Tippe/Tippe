@@ -1,5 +1,5 @@
-# 👋 Hallo, ik ben [Tippe]  
-*Softwareontwikkelaar | Fantasy-enthousiasteling | Reiziger – en meer*
+# 👋 Hallo, ik ben Tippe 
+*Software Developer | Fantasy-enthousiasteling | Reiziger | Pianist – en meer*
 
 ---
 
