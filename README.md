@@ -24,9 +24,6 @@
 ---
 
 ## 🎯 Vaardigheden & Technologieën
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)\
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff)\
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)  
@@ -39,7 +36,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 
----
 <!--
 ### 🤖 Automatiseringen
 - Laatste blogposts automatisch binnengehaald → GitHub Action met RSS-feed  
