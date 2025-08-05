@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Contact & Socials
-- LinkedIn: [tippe-linkedin](https://www.linkedin.com/in/tippe-van-roosmalen-4a4820145/)
+- LinkedIn: [Tippe](https://www.linkedin.com/in/tippe-van-roosmalen-4a4820145/)
 - ⭐ Vind je m’n werk leuk? Laat een ster achter op mijn repositories!
 
 ---
