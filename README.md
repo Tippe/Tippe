@@ -1,7 +1,7 @@
 # 👋 Hallo, ik ben [Tippe]  
 *Softwareontwikkelaar | Fantasy-enthousiasteling | Reiziger – en meer*
 
-[![Profielbezoekers](https://profile-counter.glitch.me/<Tippe>/count.svg)](https://github.com/<Tippe>)
+[![Profielbezoekers](https://profile-counter.glitch.me/Tippe/count.svg)](https://github.com/Tippe)
 
 ---
 
