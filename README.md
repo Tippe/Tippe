@@ -17,11 +17,10 @@
 - **[ProjectNaam2]** – kort overzicht en link  
 *(Voeg beschrijving + link toe per project)* -->
 
----
-
 ### 📊 GitHub Statistieken
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=<Tippe>&theme=dark)](https://github.com/<Tippe>)  
-[![Talen](https://github-readme-stats.vercel.app/api/top-langs?username=<gebruikersnaam>&layout=compact)](https://github.com/<gebruikersnaam>)  
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Tippe&theme=dark)](https://github.com/Tippe)
+[![Talen](https://github-readme-stats.vercel.app/api/top-langs?username=Tippe&layout=compact)](https://github.com/Tippe)
+
 *(Gebruik widgets zoals GitHub Readme Stats of Streak Stats)* :contentReference[oaicite:2]{index=2}
 
 ---
@@ -32,13 +31,13 @@
 *(Gebruik DevIcons of shields.io badges voor visueel aantrekkelijk overzicht)* :contentReference[oaicite:3]{index=3}
 
 ---
-
+<!--
 ### 🤖 Automatiseringen
 - Laatste blogposts automatisch binnengehaald → GitHub Action met RSS-feed  
 - Live Spotify “now playing” kaart of WakaTime-taakstatistieken  
 - Snake-game of terminal-stijl readme via GitHub Actions  
 *(Populaire tricks: commit-grachten, games, guestbooks, bijhouden van activiteit)* :contentReference[oaicite:4]{index=4}
-
+-->
 ---
 
 ### 📫 Contact & Socials
