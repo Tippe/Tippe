@@ -4,7 +4,7 @@
 ---
 
 ## 🌱 Over mij
-- Werk @ Netflex (Netflex is een toonaangevende specialist in IT-diensten. Ze bieden oplossingen op maat voor bedrijven om hun IT-infrastructuur te optimaliseren en te beveiligen. Meer informatie is te vinden op hun website: https://netflex.nl.)
+- Werk @ Netflex (Netflex is een toonaangevende specialist in IT-diensten. Ze bieden oplossingen op maat voor bedrijven om hun IT-infrastructuur te optimaliseren en te beveiligen. Meer informatie is te vinden op hun website: https://netflex.nl.
 - Programmeertalen: TypeScript • C# • PHP • JavaScript • Java • HTML • CSS
 - Favoriete tools: Git • Docker • VS Code • Postman
 - Hobby’s: reizen, bord- & kaartspellen, piano spelen, fantasy boeken & games
@@ -46,7 +46,7 @@
 ---
 
 ## 📫 Contact & Socials
-- LinkedIn: [tippe-linkedin]([https://linkedin.com/in/tippe](https://www.linkedin.com/in/tippe-van-roosmalen-4a4820145/)
+- LinkedIn: [tippe-linkedin](https://www.linkedin.com/in/tippe-van-roosmalen-4a4820145/)
 - ⭐ Vind je m’n werk leuk? Laat een ster achter op mijn repositories!
 
 ---
