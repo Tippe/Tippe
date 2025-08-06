@@ -1,15 +1,11 @@
 # 👋 Hallo, ik ben Tippe 
 *Software Developer | Fantasy-enthousiasteling | Reiziger | Pianist – en meer*
 
----
-
 ## 🌱 Over mij
 - Werk @ Netflex (Netflex is een toonaangevende specialist in IT-diensten. Ze bieden oplossingen op maat voor bedrijven om hun IT-infrastructuur te optimaliseren en te beveiligen. Meer informatie is te vinden op hun website: https://netflex.nl.
 - Programmeertalen: TypeScript • C# • PHP • JavaScript • Java • HTML • CSS
 - Favoriete tools: Git • Docker • VS Code • Postman
 - Hobby’s: reizen, bord- & kaartspellen, piano spelen, fantasy boeken & games
-
----
 
 <!--
 ### 🚀 Projecten & Open Source
@@ -20,8 +16,6 @@
 ## 📊 GitHub Statistieken
 [![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Tippe&theme=dark)](https://github.com/Tippe)\
 [![Talen](https://github-readme-stats.vercel.app/api/top-langs?username=Tippe&layout=compact)](https://github.com/Tippe)
-
----
 
 ## 🎯 Vaardigheden & Technologieën
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)  
@@ -43,13 +37,9 @@
 - Snake-game of terminal-stijl readme via GitHub Actions  
 *(Populaire tricks: commit-grachten, games, guestbooks, bijhouden van activiteit)* :contentReference[oaicite:4]{index=4}
 -->
----
 
 ## 📫 Contact & Socials
 - LinkedIn: [Tippe](https://www.linkedin.com/in/tippe-van-roosmalen-4a4820145/)
 - ⭐ Vind je m’n werk leuk? Laat een ster achter op mijn repositories!
 
----
-
 © Tippe • Laatst bijgewerkt: [datum]
-
